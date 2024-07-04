@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\dev\logger\cppSocket\x64\Debug\cppSocket.exe</FullPath>
+      <FullPath>D:\dev\logger\socketsCpp\cppSocket\x64\Debug\cppSocket.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
