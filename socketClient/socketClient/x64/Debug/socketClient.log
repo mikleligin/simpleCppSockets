@@ -1,0 +1,3 @@
+﻿  socketClient.cpp
+D:\dev\logger\socketClient\socketClient\socketClient.cpp(39,9): warning C4551: в вызове функции отсутствует список аргументов
+  socketClient.vcxproj -> D:\dev\logger\socketClient\x64\Debug\socketClient.exe
